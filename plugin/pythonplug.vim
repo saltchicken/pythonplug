@@ -1,1 +1,1 @@
-command! runtheplug :python pythonplug.main()
+command! Runtheplug :python pythonplug.main()
